@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>modmom</name>
+    </assembly>
+    <members>
+        <member name="T:modmom.Class1">
+            <summary>
+            This is class method for the modmom
+            will print Hello world from Console.write()
+            </summary>
+        </member>
+        <member name="T:modmom.Class2">
+            <summary>
+            this is a new class where we are adding comments to check only the working of newly added comments
+            or else its of o use
+            
+            </summary>
+        </member>
+        <member name="T:modmom.Program">
+            <summary>
+            class program
+            this has main method
+            inside main method there console will print mom documentation statemet 
+            </summary>
+        </member>
+        <member name="M:modmom.Program.Main(System.String[])">
+            <summary>
+            main method
+            </summary>
+            <param name="args"></param>
+            <returns>
+            printed values of console.write()
+            </returns>
+        </member>
+    </members>
+</doc>
